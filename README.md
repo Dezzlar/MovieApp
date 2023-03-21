@@ -1,16 +1,14 @@
 # app_movie
 
-A new Flutter project.
+A Movie App project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a movie App created using flutter application
+it displays various list of movies using the tmdb api
+
+it allows users to personalize their screen by having a user settings screen
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
